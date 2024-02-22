@@ -1,2 +1,3 @@
 # KozmiCosmetics
-Cosmetics for Lethal Company for Kozmica
+
+Cosmetic pack for the MoreCompany Lethal Company mod by oropher. Made for Kozmica's stream

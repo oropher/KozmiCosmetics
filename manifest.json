@@ -1,0 +1,10 @@
+{
+    "name": "KozmiCosmetics",
+    "version_number": "1.0.0",
+    "description": "Cosmetic pack for the MoreCompany Lethal Company mod by oropher",
+    "website_url": "https://github.com/oropher/KozmiCosmetics",
+    "dependencies": [
+        "BepInEx-BepInExPack-5.4.2100",
+	"notnotnotswipez-MoreCompany-1.8.1"
+    ]
+}
